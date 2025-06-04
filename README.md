@@ -1,2 +1,2 @@
 # Python-Programming-Language
-For Absolute beginners to practice
+Step-by-Step guide for non programmers.
